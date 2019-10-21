@@ -1,0 +1,14 @@
+{
+  "name": "mongoose-multi-level-discriminator",
+  "version": "0.1.0",
+  "description": "Enable Mongoose has a multilevel extend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Lubambo",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.5"
+  }
+}
