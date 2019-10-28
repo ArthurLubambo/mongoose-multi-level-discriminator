@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-multi-level-discriminator",
+  "name": "@arthurlubambo/mongoose-multi-level-discriminator",
   "version": "0.1.0",
   "description": "Enable Mongoose has a multilevel extend",
   "main": "index.js",
@@ -10,5 +10,16 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^5.7.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurLubambo/mongoose-multi-level-discriminator.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "bugs": {
+    "url": "https://github.com/ArthurLubambo/mongoose-multi-level-discriminator/issues"
+  },
+  "homepage": "https://github.com/ArthurLubambo/mongoose-multi-level-discriminator#readme"
 }
